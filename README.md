@@ -11,6 +11,11 @@
 
 ### Installation
 
+- git clone
+```
+git clone https://github.com/pelayo-joel/gestion_de_stock.git
+```
+
 - [Python](https://www.python.org/downloads/)
 
 <br></br>
